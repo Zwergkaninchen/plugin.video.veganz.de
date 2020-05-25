@@ -2,10 +2,10 @@
 
 [logo]: plugin.video.veganz.de/icon.png
 
-### The repository has a new address [http://veganz.de](https://veganz.de)
+### The addon has a new address [https://github.com/Zwergkaninchen/plugin.video.veganz.de](https://github.com/Zwergkaninchen/plugin.video.veganz.de)
 
 ### No Support or merge here!
 
-Support: [http://veganz.de](http://veganz.de)
+Support: [https://github.com/Zwergkaninchen/plugin.video.veganz.de](https://github.com/Zwergkaninchen/plugin.video.veganz.de)
 .
 .

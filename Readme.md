@@ -6,6 +6,6 @@
 
 ### No Support or merge here!
 
-Support: [https://github.com/Zwergkaninchen/plugin.video.veganz.de](https://github.com/Zwergkaninchen/plugin.video.veganz.de)
+Support: [/plugin.video.veganz.de](/plugin.video.veganz.de)
 .
 .
